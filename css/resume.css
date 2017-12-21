@@ -79,7 +79,9 @@ h2 {
   /*text-transform: uppercase;*/
     font-family: 'PTS75F', serif;
 }
-
+.nav-link {
+    font-size: 25px;
+}
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
